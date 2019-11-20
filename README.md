@@ -4,7 +4,7 @@
 The goal of this project is to create a Sentiment Analysis classifier of Amazon food reviews. The dataset I am working is made of ~ 500,000 reviews from Oct 1999 to Oct 2012. The expected outcome of the project is a classifier able to predict the polarity (positive or negative) of the opinion of the reviewer.
 If time, some further developments may include : 
 - performance comparisons of different machine learning methods
-- performance analysis of "hacker" classifiers (simple rule-based classifiers) vs ML classifiers
+- performance analysis of simple rule-based classifiers vs ML classifiers
 - feature extraction of the most helpful reviews (as rated by the users). 
 
 ## 1. 
