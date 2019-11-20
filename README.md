@@ -7,7 +7,7 @@ If time, some further developments may include :
 - performance analysis of simple rule-based classifiers vs ML classifiers
 - feature extraction of the most helpful reviews (as rated by the users). 
 
-## 1. 
+## 1. Exploring the dataset
 
 ## References 
 - J. McAuley and J. Leskovec. From amateurs to connoisseurs: modeling the evolution of user expertise through online reviews (http://i.stanford.edu/~julian/pdfs/www13.pdf). WWW, 2013.
