@@ -1,13 +1,13 @@
-# PCBS-Sentiment_Analysis_Python
+# Sentiment Analysis with Supervised learning models 
 
 ## Introduction 
-The goal of this project is to create a Sentiment Analysis classifier of Amazon food reviews. The dataset I am working on is made of ~ 500,000 reviews from Oct 1999 to Oct 2012. The expected outcome of the project is a classifier able to predict the polarity (positive or negative) of the opinion of the reviewer.
-If time, some further developments may include : 
-- performance comparisons of different machine learning methods
-- performance comparison of simple lexicon-based/rule-based classifiers vs ML classifiers
+The goal of this project is to compare the acuracy of three supervised learning models in a Sentiment Analysis classification task. The dataset I am working on is made of ~ 500,000 reviews of Amazon food products, written from Oct 1999 to Oct 2012. 
 
-To start, the first classifier that we will try to compute is a Naive Bayes classifier. I chose this method because it is fast and efficient to solve this kind of problems [1]. 
+### Downloading the dataset
+The dataset was too big to upload to Github, but you can download it here : https://drive.google.com/file/d/1JEipy9qa67FuMeqkL_uuLxQIwEEcBo3J/view?usp=sharing
 
+To execute the script, create a folder named 'data' in your working directory (the folder containing my script). 
+Download the csv
 
 ## 1. Exploring the dataset
 
