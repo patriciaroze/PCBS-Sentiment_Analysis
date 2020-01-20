@@ -6,7 +6,7 @@ The goal of this project is to compare the acuracy of three supervised learning 
 ### Downloading the dataset
 The dataset was too big to upload to Github, but you can download it here : https://drive.google.com/file/d/1JEipy9qa67FuMeqkL_uuLxQIwEEcBo3J/view?usp=sharing
 
-To execute the script, download the csv under the name "reviews.csv" and place it in the folder "data" in your directory (yhe folder should be created automatically when you clone this repository). 
+To execute the script, download the csv under the name "reviews.csv" and place it in a folder named "data" in your directory. 
 
 ### Definitions  
 Sentiment Analysis consists in predicting the opinion expressed in a text. In this project, I will use supervised learning models to predict the polarity - positive or negative - of the reviews. 
