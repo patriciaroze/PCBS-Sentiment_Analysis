@@ -22,10 +22,10 @@ In this project, I will use three models : two Naive Bayes classifiers - Gaussia
 Naive Bayes classifiers are a simple class of classifiers, based on Bayes' theorem. Naive Bayes classifiers assume strong independence between the features. 
 Naive Bayes classifiers are a common baseline for text classification. 
 
-1. Gaussian Naive Bayes
+1. Gaussian Naive Bayes :
 Gaussian Naive Bayes models are usually used when dealing with continuous data. They assume that the continuous values associated with each class are distributed following a Gaussian distribution. 
 
-2. Multinomial Naive Bayes
+2. Multinomial Naive Bayes :
 In a multinomial Naive Bayes, the features of the vectors are assumed to follow a multinomial distribution. In a text-classification context, the points of the vector represent the frequency of occurence of each word within a specific context (document, dataset etc...). 
 
 ##### RandomForest
