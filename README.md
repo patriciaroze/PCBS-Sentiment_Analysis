@@ -44,7 +44,7 @@ The first part of the project consists in exploring the dataset. For that purpos
     - distributions of helpfullness per ratings 
 - Wordclouds per ratings (most common words per ratings)
 
-The aime of this step is to understand the dataset, but also to figure out if our task could be "hacked". If we had found that positive reviews are highly correlated with the helpfulness score for instance, it might have been enough to try a simple linear regression method of predicting sentiment from helpfulness score. 
+The aim of this step is to understand the dataset, but also to figure out if our task could be "hacked". If we had found that positive reviews are highly correlated with the helpfulness score for instance, it might have been enough to try a simple linear modelling method of predicting sentiment from helpfulness score. 
 Hopefully, the exploration of the dataset doesn't show such significant correlations, and a supervised learning approach is relevant to fulfill the task.
 
 
